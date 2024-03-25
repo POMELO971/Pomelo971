@@ -1,5 +1,4 @@
-### Hi there 👋
-
+Currently student at Telecom Sud-Paris
 <!--
 **POMELO971/Pomelo971** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
